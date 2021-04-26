@@ -10,3 +10,12 @@ body{
     background-repeat: no-repeat;
     min-height: 100vh;
 }
+
+.content{
+    padding: 30px 15px;
+}
+
+.wrapper{
+    max-width: 1224px;
+    margin: 0 auto;
+}
